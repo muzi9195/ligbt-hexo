@@ -7,7 +7,3 @@ npm install
 ./node_modules/hexo-cli/bin/hexo generate
 hexo generate
 cp -r public build
-npm install
-npm update
-hexo clean
-hexo g
